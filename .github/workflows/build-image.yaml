@@ -1,4 +1,4 @@
-name: build-image
+name: build-image for shimboot
 run-name: Build shimboot for octopus (Ubuntu)
 on: [push]
 jobs:
